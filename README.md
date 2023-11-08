@@ -330,8 +330,7 @@ int main(int argc, char **argv)
 
     return(0);
 }
-Name :KAVISREE.S
-Register No :212222047001
+
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
