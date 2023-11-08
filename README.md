@@ -180,8 +180,7 @@ int main(int argc, char **argv)
 }
  x=1024
 
-Name :KAVISREE.S
-Register No : 212222047001
+
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
